@@ -1,40 +1,38 @@
 p {
   margin-top: 0px;
-  font-family: palatino;
+  font-family: bookman;
   font-size: 13px;
   color: #333;
 }
 
 h1 {
-  font-family: avenir, helvetica, arial, sans-serif;
-  letter-spacing: 0.5px;
+  /*font-family: avenir, helvetica, arial, sans-serif;*/
   font-size: 22px;
   font-weight: 900;
   color: #222;
-  margin-bottom: 15px;
+  margin-bottom: 30px;
+  letter-spacing: 0.5px;
 }
 
 h2 {
-  font-family: avenir, helvetica, arial, sans-serif;
-  font-size: 13px;
-  font-weight: 700;
+  font-size: 18px;
+  font-weight: 400;
   color: #333;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 0.5px;
   
   margin-top: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 h3 {
-  font-family: avenir, helvetica, arial, sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  font-style: italic;
-  color: #333;
+  font-size: 11px;
+  font-weight: 500;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 1px;
   
-  margin-top: 20px;
-  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 
 code {
@@ -44,6 +42,6 @@ code {
 }
 
 li {
-  font-family: palatino;
+  font-family: bookman;
   font-size: 12px;
 }
