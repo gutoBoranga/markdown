@@ -5,7 +5,7 @@
 run
 
 ```
-npm install markdown-pdf
+make install
 ```
 
 ## edit

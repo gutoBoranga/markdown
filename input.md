@@ -1,7 +1,30 @@
-# title
+# Title of the article
 
-## subtitle
+## Subtitle
 
-### sub-subtext
+This is supposed to be a random lorem-ipsum-like sausage filling text. Never mind to read it entirely, ok?
 
-text
+### Yet another level of division
+
+Imagine that here is a very beatiful message.
+
+### Continuation
+
+Imagine that here is another beatiful message.
+Imagine that here is another beatiful message.
+Imagine that here is another beatiful message.
+Imagine that here is another beatiful message.
+
+## Subtitle 2
+
+> One square
+>> Squareception
+>>> Squarecepception
+
+## Lists
+
+You can create lists with several elements like:
+
+- text
+- numbers (2124120)
+- that's pretty much it
