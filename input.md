@@ -28,3 +28,9 @@ You can create lists with several elements like:
 - text
 - numbers (2124120)
 - that's pretty much it
+
+## Tables
+
+| Bla | lorem | ipsum | dorem |
+| :-- |:-----:|:-----:|------:|
+|  0  |   1   |   2   |   3   |
