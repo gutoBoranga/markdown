@@ -1,7 +1,9 @@
 var markdownpdf = require("markdown-pdf")
 
 var options = {
-    highlightCssPath: 'style.css'
+    highlightCssPath: 'style.css',
+    paperOrientation: 'landscape',
+    paperBorder: '0px',
 }
 
 console.log("Converting ...");

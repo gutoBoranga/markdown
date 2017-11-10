@@ -1,36 +1,26 @@
-# Title of the article
+<div class="all">
 
-## Subtitle
+<div class="title">Title of the article</div>
 
-This is supposed to be a random lorem-ipsum-like sausage filling text. Never mind to read it entirely, ok?
+<div class="author">Fulano de tal</div>
+<div class="author">Beltrano</div>
 
-### Yet another level of division
+<div style="page-break-after: always;"></div>
 
-Imagine that here is a very beatiful message.
+# Here's the deal
 
-### Continuation
+- Open your eyes
+- Your life is a lie
+- Don't say a word
+- I'll tell you why
 
-Imagine that here is another beatiful message.
-Imagine that here is another beatiful message.
-Imagine that here is another beatiful message.
-Imagine that here is another beatiful message.
+<div style="page-break-after: always;"></div>
 
-## Subtitle 2
+# You're living a lie
 
-> One square
->> Squareception
->>> Squarecepception
+- Count your friends
+- In your hands
+- Now look again
+- They're not your friends
 
-## Lists
-
-You can create lists with several elements like:
-
-- text
-- numbers (2124120)
-- that's pretty much it
-
-## Tables
-
-| Bla | lorem | ipsum | dorem |
-| :-- |:-----:|:-----:|------:|
-|  0  |   1   |   2   |   3   |
+</div>
