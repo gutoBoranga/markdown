@@ -1,5 +1,5 @@
 <div class="header">
-  <img src="img/image.jpeg" class="photo">
+  
   <div class="contact">
     guto.boranga@gmail.com<br>
     br.linkedin.com/in/gutoboranga<br>
@@ -58,6 +58,4 @@ Comecei a estagiar na globo.com em 2016, na área de reprodução de vídeos na 
 
 Após, trabalhei com backend web em python (especialmente framework tornado), na plataforma de publicação de conteúdo dos produtos da globo.com. Nesta época também tive experiência com javascript no frontend.
 </div>
-
-<center><div class="section_divider">........................................................................</div></center>
 
