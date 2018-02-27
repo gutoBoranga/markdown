@@ -16,7 +16,7 @@ Entusiasta de tecnologia, design e artes em geral.
 <center><div class="section_divider">........................................................................</div></center>
 
 
-![](img/icon/education/image.png)
+![](img/education/image.png)
 ### educação
 <br><br><br><br>
 
@@ -38,7 +38,7 @@ Em 2014 comecei minha jornada pelo mundo acadêmico. Estimativa de graduação: 
 
 <center><div class="section_divider">........................................................................</div></center>
 
-![](img/icon/work/image.png)
+![](img/work/image.png)
 ### experiência
 <br><br><br><br>
 
