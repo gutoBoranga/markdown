@@ -2,13 +2,13 @@ p {
   margin: 0px;
   margin-bottom: 10px;
   padding: 0px;
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 11px;
   color: #333;
 }
 
 h1 {
-  font-family: menlo, courier;
+  font-family: menlo, 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 22px;
   font-weight: 900;
   color: #222;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 12px;
   font-weight: 300;
   font-style: italic;
@@ -28,7 +28,7 @@ h2 {
 }
 
 h3 {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 14px;
   font-weight: 500;
   color: #555;
@@ -42,7 +42,7 @@ h3 {
 }
 
 h4 {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 12px;
   font-weight: 1000;
   color: #333;
@@ -52,7 +52,7 @@ h4 {
 }
 
 h5 {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 12px;
   font-weight: 300;
   color: #777;
@@ -62,19 +62,19 @@ h5 {
 }
 
 code {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   padding: 8px;
   background-color: #424d5e;
   color: #DDD;
 }
 
 li {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 12px;
 }
 
 .items_divider {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 8px;
   font-weight: 600;
   margin-top: 15px;
@@ -82,7 +82,7 @@ li {
 }
 
 .section_divider {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 11px;
   font-weight: 100;
   color: #BBB;
@@ -109,7 +109,7 @@ img {
 }
 
 .contact {
-  font-family: menlo, courier;
+  font-family: menlo,  'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;;
   font-size: 11px;
   color: #333;
   float: right;
