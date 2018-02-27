@@ -11,7 +11,8 @@
 ## desenvolvedor & ui designer
 
 Estudante de Ciência da Computação.
-Entusiasta de tecnologia, design e artes em geral.
+Entusiasta de inteligência artificial,
+design e artes em geral.
 
 <center><div class="section_divider">........................................................................</div></center>
 
