@@ -12,7 +12,7 @@ app.listen(app.get('port'), function() {
 
 var options = {
     highlightCssPath: 'style.css',
-    paperOrientation: 'landscape',
+    paperOrientation: 'portrait',
     paperBorder: '0px',
 }
  
