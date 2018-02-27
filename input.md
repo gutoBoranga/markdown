@@ -7,7 +7,7 @@
   </div>
 </div>
 
-# augusto boranga
+# Augusto Boranga
 ## desenvolvedor & ui designer
 
 Estudante de Ciência da Computação.
